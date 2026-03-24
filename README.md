@@ -8,7 +8,7 @@ while expanding my knowledge in **Computational Linguistics** and **Natural Lang
 
 ## 🚀 What I'm Up To
 
-- **[Loqalit]([loqalit.com])** — Founder of an AI-powered localization quality assurance
+- **[Loqalit]([https://github.com/loqalit])** — Founder of an AI-powered localization quality assurance
   (QA) Chrome extension. Currently in public beta, building and scaling the product alongside
   our founding engineer and COO.
 - **Experimentation** — Regularly using LM Studio to run, test, and experiment with
